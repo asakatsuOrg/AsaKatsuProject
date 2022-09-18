@@ -13,6 +13,6 @@ For example, you want to read 4 books in one month. Break it down to “Read one
 
 **Do you have a target date for this? If yes, write below**
 
-**What will you achieve by completing this goal?*
+**What will you achieve by completing this goal?**
 
 **Additional context**
