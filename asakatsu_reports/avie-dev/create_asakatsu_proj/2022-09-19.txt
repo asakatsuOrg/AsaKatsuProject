@@ -1,0 +1,3 @@
+Day1 
+[Done]I created the asakatsu repository.
+[Done]Set up things so that other people can contribute.
