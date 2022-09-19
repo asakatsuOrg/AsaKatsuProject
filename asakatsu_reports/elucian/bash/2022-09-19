@@ -1,10 +1,23 @@
 # Today's asakatsu
 
 
-・[Done] Start day 29/100 #100DaysOfCode challenge
-・[In progress] Start AsaKatsu repository
-・[To do] Create the tutorial pages
+**Done**
+
+* Start day 29/100 #100DaysOfCode challenge
+* Start AsaKatsu repository
+
+**In progress**
+
+** Bash Tutorial pages
+** Add new Bash code snippets to repl.it website
+
+**Todo**
+
+* Create the tutorial empty pages from template
+* Tweet about my progress
 
 ----
 
 [Bash Tutorial](https://sagecode.net/seng/bash.html)
+[Bash App](https://github.com/elucian/bash-repl)
+
