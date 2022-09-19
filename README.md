@@ -7,7 +7,7 @@ For example; Read 4 books per month, do 100days challenge, etc.
 In this project, everyone who will commit will have to do a thing or two every morning and log the progress here.
 
 # How to Contribute
-▼0. Set your goal and break it into smaller chunks.
+0. Set your goal and break it into smaller chunks.
 For example you want to read 4 books in one month. Break it down to “Read one book per week”, or smaller, “Read xy chapter per day”.
 Be sure that your goal is **SMART**.
 - **S**pecific (simple, sensible, significant).
