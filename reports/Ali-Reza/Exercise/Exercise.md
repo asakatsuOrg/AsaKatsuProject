@@ -17,5 +17,5 @@
 - Arm Exercise
 - ETC...
 
-> **Note**
+> **Note** <br>
 > Doing Exercise is essential in order to be healthy Especially doing it in the morning.
