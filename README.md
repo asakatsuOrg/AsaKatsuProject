@@ -21,8 +21,8 @@ Be sure that your goal is **SMART**.
 3. Create a new branch with this format: asakatsu/<github_handle>
    - It is advisable to haveonly  one branch. Work one thing at a time.
    - If you need another branch, aside from goal setting, you can create one
-      - feature/<your proposal>
-      - bugfix/<your proposal>
+      - feature/your_proposal
+      - bugfix/your_proposal
 
 4. Create your folder inside **asakatsu_reports**. And then create a subfolder like the one in the image below.
 ![](images/dir_explanation.png?raw=true)
