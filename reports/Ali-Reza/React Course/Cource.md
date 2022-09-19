@@ -17,5 +17,5 @@
 - Teaching it to myself
 - Make thread _if I had time_
 
-> **Note**
+> **Note** <br>
 > I am learning the React in Udemy Course by [ZTM](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
