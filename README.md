@@ -25,7 +25,7 @@ Be sure that your goal is **SMART**.
       - bugfix/your_proposal
 
 4. Create your folder inside **reports**. And then create a subfolder like the one in the image below.
-![](images/dir_explanation.png?raw=true)
+![](images/dir_img.png?raw=true)
 
 5. Create a PR everytime you update the log (the txt file). 
    - If you are ready to merge the PR, put a tag [Ready to Merge]   
