@@ -21,13 +21,14 @@ Be sure that your goal is **SMART**.
 3. Create a new branch with this format: asakatsu/<github_handle>
    - It is advisable to haveonly  one branch. Work one thing at a time.
    - If you need another branch, aside from goal setting, you can create one
-      - feature/<your proposal>
-      - bugfix/<your proposal>
+      - feature/your_proposal
+      - bugfix/your_proposal
 
 4. Create your folder inside **asakatsu_reports**. And then create a subfolder like the one in the image below.
 ![](images/dir_explanation.png?raw=true)
 
 5. Create a PR everytime you update the log (the txt file). 
+   - If you are ready to merge the PR, put a tag [Ready to Merge]   
 6. You can also post the what is inside the txt file in Twitter with the tag #AsaKatsu if you want. This is optional.
 7. Close the issue when you're done with the goal.
 
