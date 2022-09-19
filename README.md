@@ -32,5 +32,8 @@ Be sure that your goal is **SMART**.
 7. Close the issue when you're done with the goal.
 
 
-
+### Contributors
+<a href="https://github.com/avie-dev/AsaKatsuProject/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=avie-dev/AsaKatsuProject" />
+</a>
 
