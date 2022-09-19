@@ -1,4 +1,4 @@
-# About AsaKatsuProject
+# About AsaKatsu Project
 A project where you can keep track of your goal's progress, and contribute to opensource in the same time.
 
 *AsaKatsu* is a Japanese term for waking up a little early to do something productive, in line with a goal.
@@ -19,7 +19,7 @@ Be sure that your goal is **SMART**.
 1. [Fork](https://github.com/avie-dev/AsaKatsuProject/fork) this repository.
 2. Create an issue stating your goal. You can use the set goal template or create your own format. Feel free.
 3. Create a new branch with this format: asakatsu/<github_handle>
-   - It is advisable to haveonly  one branch. Work one thing at a time.
+   - It is advisable to have only  one branch. Work one thing at a time.
    - If you need another branch, aside from goal setting, you can create one
       - feature/your_proposal
       - bugfix/your_proposal
