@@ -30,7 +30,7 @@ Be sure that your goal is **SMART**.
 ![](images/dir_img.png?raw=true)
 
 5. Create a PR everytime you update the log (the txt file). 
-   - If you are ready to merge the PR, put a tag [Ready to Merge]   
+   - **If you are ready to merge the PR, put a tag [Ready to Merge]**    
 6. You can also post the what is inside the txt file in Twitter with the tag #AsaKatsu if you want. This is optional.
 7. Close the issue when you're done with the goal.
 
