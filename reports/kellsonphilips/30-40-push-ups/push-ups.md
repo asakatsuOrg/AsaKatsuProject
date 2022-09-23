@@ -17,3 +17,10 @@
   - 2nd section: 30
   - 3rd section: 20
 ---
+
+### Day4
+  - Completed 80 push-ups in 3 sections
+  - 1st section: 40 
+  - 2nd section: 20
+  - 3rd section: 20
+---
