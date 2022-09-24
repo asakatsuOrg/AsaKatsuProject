@@ -31,3 +31,10 @@
   - 2nd section: 20
   - 3rd section: 30
 ---
+
+### Day6
+  - Completed 80 push-ups in 3 sections
+  - 1st section: 30 
+  - 2nd section: 30
+  - 3rd section: 20
+---

@@ -17,3 +17,6 @@
 - Woke up 7:28am
 ---
 
+### Day6
+- Woke up 7am
+---
