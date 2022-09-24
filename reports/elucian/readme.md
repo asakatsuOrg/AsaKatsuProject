@@ -1,10 +1,10 @@
-# Elucian's AsaKatsu Report
+# Elucian's Report
 
 Elucian is working as Sage-Code Tech Instructor.
 
 * 1'st Challange: Learn Bash unilt 1 Oct 2022
 
-# Volunteer
+# Expertise
 
 You can ask Elucian about:
 
@@ -14,6 +14,6 @@ You can ask Elucian about:
 
 # Projects
 
-Elucian is looking for volunteers and students:
+Elucian is looking for contributors to Open Source tutorials:
 
 [Sage-Code](https://github.com/sage-code)
