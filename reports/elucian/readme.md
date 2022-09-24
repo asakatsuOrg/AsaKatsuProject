@@ -2,7 +2,11 @@
 
 Elucian is working as Sage-Code Tech Instructor.
 
-You can ask elucian about:
+* 1'st Challange: Learn Bash unilt 1 Oct 2022
+
+# Volunteer
+
+You can ask Elucian about:
 
 1. Programming languages
 2. Software Engineering
