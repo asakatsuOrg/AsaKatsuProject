@@ -38,3 +38,10 @@
   - 2nd section: 30
   - 3rd section: 20
 ---
+
+### Day7
+Beautiful Sunday morning 🌞
+   - Completed 60 push-ups in 2 sections
+  - 1st section: 30 
+  - 2nd section: 30
+---
