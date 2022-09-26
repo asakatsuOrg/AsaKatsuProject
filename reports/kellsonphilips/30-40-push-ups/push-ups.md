@@ -41,7 +41,15 @@
 
 ### Day7
 Beautiful Sunday morning 🌞
-   - Completed 60 push-ups in 2 sections
+  - Completed 60 push-ups in 2 sections
   - 1st section: 30 
   - 2nd section: 30
+---
+
+### Day8
+A little progress and loving the flexibilty
+  - Completed 100 push-ups in 3 sections
+  - 1st section: 40 
+  - 2nd section: 30
+  - 3rd section: 30
 ---

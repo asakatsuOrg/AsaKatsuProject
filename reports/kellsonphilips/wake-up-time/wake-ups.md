@@ -25,3 +25,7 @@
 Beautiful Sunday morning 🌞
 - Woke up 7:45am
 ---
+
+### Day8
+- Woke up 6:22am
+---
