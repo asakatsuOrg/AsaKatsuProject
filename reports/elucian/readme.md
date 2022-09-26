@@ -2,7 +2,7 @@
 
 Elucian is working as Sage-Code Tech Instructor.
 
-* 1'st Challange: Learn Bash unilt 1 Oct 2022
+* 1'st Challange: [Learn Bash](bash) unilt 1 Oct 2022
 
 # Expertise
 
