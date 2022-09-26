@@ -1,5 +1,0 @@
-Day 1
-
-[Done] Created a goal
-[In progress] Creating a plan to reach the goal
-[Todo] Start tomorrow!

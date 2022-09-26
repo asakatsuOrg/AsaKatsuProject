@@ -20,3 +20,8 @@
 ### Day6
 - Woke up 7am
 ---
+
+### Day7
+Beautiful Sunday morning 🌞
+- Woke up 7:45am
+---

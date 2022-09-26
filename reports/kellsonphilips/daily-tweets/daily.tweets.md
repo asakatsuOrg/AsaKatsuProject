@@ -20,3 +20,8 @@
 ### Day6
 - daily tweet done
 ---
+
+### Day7
+Beautiful Sunday morning 🌞
+- daily tweet achieved 
+---
