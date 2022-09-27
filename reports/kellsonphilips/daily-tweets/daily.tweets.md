@@ -25,3 +25,9 @@
 Beautiful Sunday morning 🌞
 - daily tweet achieved 
 ---
+
+### Day8
+- Check today's tweet [Tweet](https://twitter.com/kellsonphilips/status/1574207593928871936?s=20&t=4IPLEXVFtZMazMRKJMzdEQ) 👍🏽
+- daily tweet done
+---
+
