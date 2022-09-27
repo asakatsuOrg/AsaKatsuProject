@@ -27,7 +27,12 @@ Beautiful Sunday morning 🌞
 ---
 
 ### Day8
-- Check today's tweet [Tweet](https://twitter.com/kellsonphilips/status/1574207593928871936?s=20&t=4IPLEXVFtZMazMRKJMzdEQ) 👍🏽
+- Check today's tweet [Daily Tweet](https://twitter.com/kellsonphilips/status/1574207593928871936?s=20&t=4IPLEXVFtZMazMRKJMzdEQ) 👍🏽
 - daily tweet done
+---
+
+### Day9
+- Check out today's tweet [Daily Tweet](https://twitter.com/kellsonphilips/status/1574587277518729216?s=20&t=nGEqTNqrb1n-tAR9ORtfeA)
+- daily tweet done 
 ---
 
