@@ -36,3 +36,8 @@ Beautiful Sunday morning 🌞
 - daily tweet done 
 ---
 
+### Day10 
+- Check out today's tweet [Daily tweet](https://twitter.com/kellsonphilips/status/1574965637180375041?s=20&t=g6Kyn_mdHtsDKW3BgYlJbg)
+- daily tweet done
+---
+
