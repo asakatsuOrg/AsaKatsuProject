@@ -4,7 +4,7 @@
 - [ ] Monday
 - [x] Tuesday
 - [x] Wednesday
-- [x] Thursday
+- [x] Thursday--> completed 30mins cardio and 20mins of excercise and streach 
 - [x] Friday
 - [x] Saturday
 - [x] Sunday
