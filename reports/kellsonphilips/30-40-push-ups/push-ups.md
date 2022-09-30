@@ -75,4 +75,10 @@ A little progress and loving the flexibilty
   - 3rd section: 30
 ---
 
-
+### Day12
+  - Completed 110 push-ups in 4 sections
+  - 1st section: 40 
+  - 2nd section: 30
+  - 3rd section: 20
+  - 4th section: 20
+---
