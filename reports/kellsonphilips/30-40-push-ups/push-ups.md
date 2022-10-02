@@ -90,3 +90,10 @@ A little progress and loving the flexibilty
   - 3rd section: 30
   - 4th section: 30
 ---
+
+### Day14
+i slacked a little today
+  - Completed 70 push-ups in 2 sections
+  - 1st section: 40 
+  - 2nd section: 30
+---
