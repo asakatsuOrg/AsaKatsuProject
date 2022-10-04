@@ -105,3 +105,13 @@ i slacked a little today
   - 3rd section: 30
   - 4th section: 30
 ---
+
+### Day16
+I'm targetting 200 per day and hoping to reach there soon
+  - Completed 160 push-ups in 5 sections
+  - 1st section: 40 
+  - 2nd section: 30
+  - 3rd section: 30
+  - 4th section: 30
+  - 5th section: 30
+---
