@@ -6,7 +6,7 @@
 - [x] Wednesday
 - [x] Thursday--> completed 30mins cardio and 20mins of excercise and streach 
 - [ ] Friday--> COULDNT GO TO GYM TODAY DUE TO RAIN 
-- [x] Saturday
+- [ ] Saturday--> couldnt go to gym but worked out for 30mins at home 
 - [x] Sunday
 
 
