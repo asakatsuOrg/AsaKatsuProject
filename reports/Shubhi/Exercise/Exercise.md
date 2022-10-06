@@ -1,4 +1,4 @@
-# Exercise
+# Exercise week 1
 
 **These are the days that I do Exercise**
 - [ ] Monday
