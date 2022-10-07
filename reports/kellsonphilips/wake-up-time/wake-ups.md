@@ -70,3 +70,7 @@ Woke up late today 😤
 ### Day18
 - Woke up 5am
 ---
+
+### Day19
+- Woke up 7am
+---
