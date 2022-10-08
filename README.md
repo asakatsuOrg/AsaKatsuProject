@@ -10,3 +10,6 @@ In this project, everyone who will commit will have to do a thing or two every m
 Any contributions you make are truly appreciated.
 Check out our [contribution guidelines](https://github.com/asakatsuOrg/AsaKatsuProject/blob/develop/CONTRIBUTING.md) for more information.
 
+<a href = "https://github.com/asakatsuOrg/AsaKatsuProject/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=asakatsuOrg/AsaKatsuProject"/>
+</a>
