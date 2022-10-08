@@ -124,3 +124,29 @@ I'm targetting 200 per day and hoping to reach there soon
   - 4th section: 30
   - 5th section: 30
 ---
+
+### Day18
+  - Completed 160 push-ups in 5 sections
+  - 1st section: 40 
+  - 2nd section: 30
+  - 3rd section: 30
+  - 4th section: 30
+  - 5th section: 30
+---
+
+### Day19
+  - Completed 170 push-ups in 5 sections
+  - 1st section: 40 
+  - 2nd section: 30
+  - 3rd section: 30
+  - 4th section: 30
+  - 5th section: 40
+---
+
+### Day20
+  - Completed 180 push-ups in 4 sections
+  - 1st section: 50 
+  - 2nd section: 50
+  - 3rd section: 40
+  - 4th section: 40
+---
