@@ -1,12 +1,12 @@
-# Exercise week 1
+# Exercise
 
 **These are the days that I do Exercise**
 - [ ] Monday
 - [x] Tuesday
-- [x] Wednesday
+- [x] Wednesday-->completed 30mins cardio and 20mins of excercise and streach 
 - [x] Thursday--> completed 30mins cardio and 20mins of excercise and streach 
-- [ ] Friday--> COULDNT GO TO GYM TODAY DUE TO RAIN 
-- [ ] Saturday--> couldnt go to gym but worked out for 30mins at home 
+- [x] Friday--> friday workout check
+- [ ] Saturday
 - [x] Sunday
 
 
