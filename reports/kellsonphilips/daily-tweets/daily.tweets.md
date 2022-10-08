@@ -85,3 +85,9 @@ Beautiful Sunday morning 🌞
 - Check out today's tweet [Daily tweet](https://twitter.com/kellsonphilips/status/1578223779159085056?s=20&t=6UgyAUeL9YfdLTCsJAtBTA)
 - daily tweet done
 ---
+
+### Day20
+- Check out today's tweet [Daily tweet][def]
+- daily tweet done
+- [def]: https://twitter.com/kellsonphilips/status/1578606644405342209?s=20&t=7R6Fmt9LTiyAQC-3MrbILw
+---
