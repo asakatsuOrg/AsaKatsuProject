@@ -1,7 +1,7 @@
 # Exercise
 
 **These are the days that I do Exercise**
-- [ ] Monday-->
+- [x] Monday-->Done 
 - [ ] Tuesday-->
 - [ ] Wednesday-->
 - [ ] Thursday-->  
