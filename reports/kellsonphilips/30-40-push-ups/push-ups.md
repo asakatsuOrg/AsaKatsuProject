@@ -150,3 +150,9 @@ I'm targetting 200 per day and hoping to reach there soon
   - 3rd section: 40
   - 4th section: 40
 ---
+
+### Day21
+  - Completed 100 push-ups in 2 sections
+  - 1st section: 50 
+  - 2nd section: 50
+---
