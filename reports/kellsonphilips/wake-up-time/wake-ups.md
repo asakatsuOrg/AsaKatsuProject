@@ -78,3 +78,7 @@ Woke up late today 😤
 ### Day20
 - Woke up 7:51am
 ---
+
+### Day21
+- Woke up 6:49am
+---
