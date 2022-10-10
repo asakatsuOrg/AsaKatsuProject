@@ -7,7 +7,7 @@
 - [x] Thursday--> completed 30mins cardio and 20mins of excercise and streach 
 - [x] Friday--> friday workout check
 - [x] Saturday--> Saturday workout check
-- [ ] Sunday--> 
+- [x] Sunday--> Sunday workout check
 
 
 **What I do:**
