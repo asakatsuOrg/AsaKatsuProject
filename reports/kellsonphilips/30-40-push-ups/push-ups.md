@@ -156,3 +156,13 @@ I'm targetting 200 per day and hoping to reach there soon
   - 1st section: 50 
   - 2nd section: 50
 ---
+
+### Day22
+Day 22 and finally I can go 200 push-ups. I need to keep up with this momentum
+  - Completed 200 push-ups in 5 sections
+  - 1st section: 40 
+  - 2nd section: 40
+  - 3rd section: 40
+  - 4th section: 40
+  - 5th section: 40
+---
