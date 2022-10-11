@@ -2,7 +2,7 @@
 
 **These are the days that I do Exercise**
 - [x] Monday-->Done 
-- [ ] Tuesday-->
+- [x] Tuesday-->Done
 - [ ] Wednesday-->
 - [ ] Thursday-->  
 - [ ] Friday--> 
