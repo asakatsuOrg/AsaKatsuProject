@@ -9,6 +9,7 @@ In this project, everyone who will commit will have to do a thing or two every m
 #  📜 Rules
 
 * Be concise and specific with your goals. Eg: Set Goal (Avie):[100 spaces in 100 days]
+* Make sure to create a PR for the issue you created.
 * Read the [Code Of Conduct](https://github.com/asakatsuOrg/AsaKatsuProject/blob/develop/CODE_OF_CONDUCT.md) to ensure a smoother experience for everyone contributing
 
 #  👨‍💻 Contribution
