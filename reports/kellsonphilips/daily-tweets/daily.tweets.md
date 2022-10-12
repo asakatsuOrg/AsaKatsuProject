@@ -109,3 +109,9 @@ Beautiful Sunday morning 🌞
 - daily tweet done
 - [def]: https://twitter.com/kellsonphilips/status/1579698395505385473?s=20&t=W5A_6-_XBiF4EwuuoDzrCQ
 ---
+
+### Day24
+- Check out today's tweet [Daily tweet][def]
+- daily tweet done
+- [def]: https://twitter.com/kellsonphilips/status/1580019805020569600?s=20&t=vhOR94Tf8utWA9Ana830uA
+---
