@@ -4,7 +4,7 @@
 - [x] Monday-->Done 
 - [x] Tuesday-->Done
 - [x] Wednesday-->Done
-- [ ] Thursday-->  
+- [x] Thursday--> Done
 - [ ] Friday--> 
 - [ ] Saturday--> 
 - [ ] Sunday--> 
