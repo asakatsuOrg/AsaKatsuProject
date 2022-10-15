@@ -5,7 +5,7 @@
 - [x] Tuesday-->Done
 - [x] Wednesday-->Done
 - [x] Thursday--> Done
-- [ ] Friday--> 
+- [ ] Friday--> Din go to gym today as its friday 
 - [ ] Saturday--> 
 - [ ] Sunday--> 
 
