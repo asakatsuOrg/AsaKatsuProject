@@ -102,3 +102,7 @@ Woke up late today 😤
 ### Day26
 - Woke up 7:11am
 ---
+
+### Day27
+- Woke up 8:32am
+---
