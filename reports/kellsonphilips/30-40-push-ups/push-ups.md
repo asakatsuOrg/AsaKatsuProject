@@ -202,3 +202,12 @@ Day 22 and finally I can go 200 push-ups. I need to keep up with this momentum
   - 4th section: 40
   - 5th section: 40
 ---
+
+### Day27
+  - Completed 200 push-ups in 5 sections
+  - 1st section: 40 
+  - 2nd section: 40
+  - 3rd section: 40
+  - 4th section: 40
+  - 5th section: 40
+---
