@@ -110,3 +110,7 @@ Woke up late today 😤
 ### Day28
 - Woke up 6:50am
 ---
+
+### Day29
+- Woke up 7:39am
+---
