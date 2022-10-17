@@ -1,13 +1,13 @@
 # Exercise
 
 **These are the days that I do Exercise**
-- [x] Monday-->Done 
-- [x] Tuesday-->Done
-- [x] Wednesday-->Done
-- [x] Thursday--> Done
-- [ ] Friday--> Din go to gym today as its friday 
-- [x] Saturday--> Done 
-- [x] Sunday--> Done
+- [ ] Monday-->
+- [ ] Tuesday-->
+- [ ] Wednesday-->
+- [ ] Thursday-->  
+- [ ] Friday--> 
+- [ ] Saturday--> 
+- [ ] Sunday--> 
 
 
 **What I do:**
