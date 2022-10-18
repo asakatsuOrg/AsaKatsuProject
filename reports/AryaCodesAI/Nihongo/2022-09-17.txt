@@ -3,8 +3,8 @@ Week 1-[17 oct 2022]
 GOAL: Basic Hiragana
 
  Day          |Rank| XP points
-[ ] Monday    | 1  | 721 XP
-[ ] Tuesday   |    |
+[X] Monday    | 1  | 721 XP
+[X] Tuesday   | 2  | 920 XP
 [ ] Wednesday |    |
 [ ] Thursday  |    |
 [ ] Friday    |    |
