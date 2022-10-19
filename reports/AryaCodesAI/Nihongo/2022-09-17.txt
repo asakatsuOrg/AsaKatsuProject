@@ -2,17 +2,17 @@ Learning Nihongo
 Week 1-[17 oct 2022]
 GOAL: Basic Hiragana
 
- Day          |Rank| XP points
-[X] Monday    | 1  | 721 XP
-[X] Tuesday   | 2  | 920 XP
-[ ] Wednesday |    |
-[ ] Thursday  |    |
-[ ] Friday    |    |
-[ ] Saturday  |    |
-[ ] Sunday    |    |
+ Day          | XP points |
+[X] Monday    | 721 XP    |
+[X] Tuesday   | 920 XP    |
+[X] Wednesday | 1070 XP   |
+[ ] Thursday  |           |
+[ ] Friday    |           |
+[ ] Saturday  |           |
+[ ] Sunday    |           |
 
 
 NOTE: Increasing stats indicates daily progress.
 Duolingo stats- Start:  Rank 1          End: Rank ?
-                        721 XP               ???? XP
-                           [Basic Hiragana]
+Bronze league           721 XP               ???? XP
+                             [Basic Hiragana]
