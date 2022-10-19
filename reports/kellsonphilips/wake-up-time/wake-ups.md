@@ -114,3 +114,12 @@ Woke up late today 😤
 ### Day29
 - Woke up 7:39am
 ---
+
+Hurray!!! 🎉🎉🎉 First step to cosistency done. 
+### Day30
+- Woke up 6:21am
+---
+
+# TASK COMPLETION🛠
+- CLOSING THIS TASK AS IT'S MARKED COMPLETED WITH THE DATE: 19/10/2022!!!
+- FURTHER TASK WILL BE STARTING IN A NEW DIRECTORY. THANKS 👏🏼
