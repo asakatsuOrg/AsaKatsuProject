@@ -237,3 +237,7 @@ Hurray!!! 🎉🎉🎉 First step to cosistency done.
   - 4th section: 40
   - 5th section: 40
 ---
+
+# TASK COMPLETION🛠
+- CLOSING THIS TASK AS IT'S MARKED COMPLETED WITH THE DATE: 19/10/2011 !!!
+- FURTHER TASK WILL BE STARTING IN A NEW DIRECTORY. THANKS 👏🏼
