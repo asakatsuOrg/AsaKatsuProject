@@ -1,2 +1,0 @@
-1. Two Sum (completed)
-2. Move Zeroes (completed)
