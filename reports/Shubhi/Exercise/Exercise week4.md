@@ -3,7 +3,7 @@
 **These are the days that I do Exercise**
 - [x] Monday--> Done
 - [ ] Tuesday--> Din go to gym due to work
-- [ ] Wednesday-->
+- [x] Wednesday-->Done
 - [ ] Thursday-->  
 - [ ] Friday--> 
 - [ ] Saturday--> 
