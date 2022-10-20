@@ -152,3 +152,7 @@ Hurray!!! 🎉🎉🎉 First step to cosistency done.
 - daily tweet done
 - [def]: https://twitter.com/kellsonphilips/status/1582223261534162944?s=20&t=raRf3OGKQX4TSda7qBVL0A
 ---
+
+# TASK COMPLETION🛠
+- CLOSING THIS TASK AS IT'S MARKED COMPLETED WITH THE DATE: 19/10/2022 !!!
+- FURTHER TASK WILL BE STARTING IN A NEW DIRECTORY. THANKS 👏🏼
