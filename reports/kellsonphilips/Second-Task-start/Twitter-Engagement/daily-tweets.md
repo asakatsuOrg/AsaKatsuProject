@@ -7,3 +7,11 @@
 Check daily tweet here: [Tweet](def)
 - [def]: https://twitter.com/kellsonphilips/status/1582979146497822720?s=20&t=fiXAyqbY4LPSs5nN-mJKgw
 <hr>
+
+## Date: 21/10/2022
+ - [x] Check if satified
+ - [ ] Check if unstatisfied
+ 
+Check daily tweet here: [Tweet](def)
+- [def]: https://twitter.com/kellsonphilips/status/1583338883395510273?s=20&t=q3fnElJZragyhjRJydfUaA
+<hr>
