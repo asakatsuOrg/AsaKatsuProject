@@ -32,3 +32,14 @@
 - Dumbell ***Left Hand*** 20 in 5x rep : 100 
 - Neck exercise 12 in 5x reps : 60 
 <hr>
+
+## Date: 23/10/2022
+ - [x] Check if satified
+ - [ ] Check if unstatisfied
+
+- Push-Ups 30 in 2x reps : 60 push-ups
+- Crunches 30 in 2x reps : 60 Hard
+- Dumbell ***Right Hand*** 20 in 2x rep : 40 
+- Dumbell ***Left Hand*** 20 in 2x rep : 40 
+- Neck exercise 12 in 3x reps : 36 
+<hr>
