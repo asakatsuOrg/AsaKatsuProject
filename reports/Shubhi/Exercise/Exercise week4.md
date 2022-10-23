@@ -6,8 +6,8 @@
 - [x] Wednesday-->Done
 - [x] Thursday-->  Done
 - [x] Friday--> Done
-- [ ] Saturday--> 
-- [ ] Sunday--> 
+- [x] Saturday--> Done
+- [x] Sunday--> Done
 
 
 **What I do:**
