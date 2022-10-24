@@ -20,3 +20,10 @@ Time of Wake-Up: 7:11AM
  
 Time of Wake-Up: 8:20AM
 <hr>
+
+## Date: 23/10/2022
+ - [x] Check if satified
+ - [ ] Check if unstatisfied
+ 
+Time of Wake-Up: 6:51AM
+<hr>
