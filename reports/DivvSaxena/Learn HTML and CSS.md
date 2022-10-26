@@ -7,3 +7,7 @@ have completed its first assignment.
 Learned Basics of Html and Css , Did some assignments on it to improve more! But now i know how to use css to style buttons.
 <!-- done - 23 Oct
 -->
+#Day 6-8
+Learned about Hovers, Transitions, Shadows +  Chrome DevTools & CSS Box Model . +++ Assignments.
+  <!--   26
+ -->
