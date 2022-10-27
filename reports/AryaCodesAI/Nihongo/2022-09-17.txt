@@ -23,7 +23,7 @@ GOAL:
 Monday    | 103 XP    |
 Tuesday   | 216 XP    |
 Wednesday | 306 XP    |
-Thursday  | |
+Thursday  | 380 XP    |
 Friday    | |
 Saturday  | |
 Sunday    | |
