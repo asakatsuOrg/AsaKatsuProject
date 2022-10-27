@@ -62,3 +62,12 @@ Check daily tweet here: [Tweet](def)
 
 [def]: https://twitter.com/kellsonphilips/status/1585129317067264001?s=20&t=AiOLjlE20vmw3ST-GW9nUw
 <hr>
+
+## Date: 27/10/2022
+ - [x] Check if satified
+ - [ ] Check if unstatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1585506452525174784?s=20&t=hUyqvztOa8xo6DQiJOm3Aw
+<hr>
