@@ -1,1 +1,2 @@
-Day 36: Solved 10 questions. (7kyu * 7 + 6kyu * 3)
+Day 35: Solved 10 questions, 7kyu * 7 + 6kyu * 3. (Tracking it again since I misunderstood the 
+day)
