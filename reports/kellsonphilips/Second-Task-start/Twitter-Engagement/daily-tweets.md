@@ -1,8 +1,8 @@
 # Daily Tweet Time Log **|** Daily Log expected **|** ***Very important***
 
 ## Date: 20/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -10,8 +10,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 21/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -19,8 +19,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 22/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -28,8 +28,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 23/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -37,8 +37,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 24/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -46,8 +46,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 25/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -55,8 +55,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 26/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -64,8 +64,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 27/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
@@ -73,8 +73,8 @@ Check daily tweet here: [Tweet](def)
 <hr>
 
 ## Date: 28/10/2022
- - [x] Check if satified
- - [ ] Check if unstatisfied
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
  
 Check daily tweet here: [Tweet](def)
 
