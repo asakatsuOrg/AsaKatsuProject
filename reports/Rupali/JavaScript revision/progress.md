@@ -5,14 +5,14 @@
 
 ## Concepts 
 
-- [ ] DataTypes
-- [ ] Convential functions Vs Arrow function
-- [ ] Array and it's methods
-- [ ] Objects and their methods
-- [ ] Callback and callstack
-- [ ] Scop chain
-- [ ] Hoisting
-- [ ] 'this' keyword
+- [x] DataTypes
+- [x] Convential functions Vs Arrow function
+- [x] Array and it's methods
+- [x] Object and it's methods
+- [x] Callback and callstack
+- [x] Scop chain
+- [x] Hoisting
+- [x] 'this' keyword
 - [ ] Data Structure
 - [ ] Closure
 - [ ] Promises
