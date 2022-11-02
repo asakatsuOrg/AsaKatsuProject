@@ -144,3 +144,29 @@
 - Neck exercise 12 in 3x reps : 36      
 - Tricep exercise 20 in 5x reps : 100 
 <hr>
+
+## Date: 1/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+- Push-Ups 30 in 5x reps : 150 
+- Crunches 30 in 3x reps : 90 
+- Mountain Climbing 100 in 2x reps : 200
+- Dumbell ***Right Hand*** 20 in 5x reps : 100 
+- Dumbell ***Left Hand*** 20 in 5x reps : 100 
+- Neck exercise 12 in 3x reps : 36      
+- Tricep exercise 20 in 5x reps : 100 
+<hr>
+
+## Date: 2/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+- Push-Ups 30 in 5x reps : 150 
+- Crunches 30 in 3x reps : 90 
+- Mountain Climbing 100 in 2x reps : 200
+- Dumbell ***Right Hand*** 20 in 5x reps : 100 
+- Dumbell ***Left Hand*** 20 in 5x reps : 100 
+- Neck exercise 12 in 3x reps : 36      
+- Tricep exercise 20 in 5x reps : 100 
+<hr>
