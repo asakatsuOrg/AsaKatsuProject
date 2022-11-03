@@ -37,7 +37,7 @@ GOAL: Hiragana and Katakana
 Monday    | 50 XP     |
 Tuesday   | 130 XP    |
 Wednesday | 180 XP    |
-Thursday  |  XP    |
+Thursday  | 230 XP    |
 Friday    |  XP    |
 Saturday  |  XP    |
 Sunday    |   XP   |
