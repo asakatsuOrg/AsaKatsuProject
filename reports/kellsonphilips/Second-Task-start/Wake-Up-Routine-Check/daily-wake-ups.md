@@ -98,3 +98,10 @@ Time of Wake-Up: 8:13AM
  
 Time of Wake-Up: 6:53AM
 <hr>
+
+## Date: 3/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 6:07AM
+<hr>
