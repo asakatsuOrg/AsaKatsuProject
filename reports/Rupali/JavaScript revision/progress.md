@@ -13,7 +13,7 @@
 - [x] Scop chain
 - [x] Hoisting
 - [x] 'this' keyword
-- [ ] Data Structure
-- [ ] Closure
-- [ ] Promises
+- [x] Data Structure
+- [x] Closure
+- [x] Promises
 
