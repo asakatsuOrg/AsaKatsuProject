@@ -11,3 +11,5 @@ Learned Basics of Html and Css , Did some assignments on it to improve more! But
 Learned about Hovers, Transitions, Shadows +  Chrome DevTools & CSS Box Model . +++ Assignments.
   <!--   26
  -->
+# Day 9-13
+Completed the Basics and the part that i targeted till this month . 
