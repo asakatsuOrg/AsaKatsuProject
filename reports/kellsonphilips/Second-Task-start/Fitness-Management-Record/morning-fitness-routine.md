@@ -197,3 +197,16 @@
 - Neck exercise 12 in 3x reps : 36      
 - Tricep exercise 20 in 5x reps : 100 
 <hr>
+
+## Date: 5/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+- Push-Ups 30 in 4x reps : 120 
+- Crunches 40 in 3x reps : 120 
+- Mountain Climbing 60 in 2x reps : 120
+- Dumbell ***Right Hand*** 20 in 5x reps : 100 
+- Dumbell ***Left Hand*** 20 in 5x reps : 100 
+- Neck exercise 12 in 3x reps : 36      
+- Tricep exercise 20 in 5x reps : 100 
+<hr>
