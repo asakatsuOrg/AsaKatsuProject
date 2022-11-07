@@ -39,5 +39,5 @@ Tuesday   | 130 XP    |
 Wednesday | 180 XP    |
 Thursday  | 230 XP    |
 Friday    | 280 XP    |
-Saturday  |  XP    |
+Saturday  | 310 XP    |
 Sunday    |   XP   |
