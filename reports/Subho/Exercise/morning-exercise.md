@@ -23,3 +23,4 @@ GOAL: Do morning exercises every day for the next 150 days, except on Sundays.
 - [x] November 5 - 16 minutes (10:30am)
 - [x] November 6 - Sunday
 - [x] November 7 - 17 minutes (11:30am)
+- [x] November 8 - 17 minutes (11:30am)

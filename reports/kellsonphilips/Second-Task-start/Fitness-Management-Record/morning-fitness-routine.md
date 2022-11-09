@@ -236,3 +236,14 @@
 - Neck exercise 12 in 3x reps : 36      
 - Tricep exercise 20 in 4x reps : 80 
 <hr>
+
+## Date: 8/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+- Push-Ups 30 in 3x reps : 90 
+- Crunches 30 in 3x reps : 90 
+- Dumbell ***Right Hand*** 20 in 3x reps : 60 
+- Dumbell ***Left Hand*** 20 in 3x reps : 60    
+- Tricep exercise 20 in 3x reps : 60 
+<hr>
