@@ -258,3 +258,14 @@
 - Dumbell ***Left Hand*** 20 in 3x reps : 60    
 - Tricep exercise 20 in 5x reps : 100 
 <hr>
+
+## Date: 10/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+- Push-Ups 30 in 3x reps : 90 
+- Mountain Climbing 60 in 3x reps : 180
+- Dumbell ***Right Hand*** 20 in 3x reps : 60 
+- Dumbell ***Left Hand*** 20 in 3x reps : 60    
+- Tricep exercise 20 in 5x reps : 100 
+<hr>
