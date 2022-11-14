@@ -303,3 +303,15 @@
 - Crunches 40 in 3x reps : 120 
 - Mountain Climbing 60 in 3x reps : 180
 <hr>
+
+## Date: 13/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### Upper body day
+
+- Push-Ups 30 in 3x reps : 90 
+- Dumbell ***Right Hand*** 20 in 4x reps : 80 
+- Dumbell ***Left Hand*** 20 in 4x reps : 80
+- Neck exercise 12 in 3x reps : 36      
+- Tricep exercise 20 in 3x reps : 60 
+<hr>
