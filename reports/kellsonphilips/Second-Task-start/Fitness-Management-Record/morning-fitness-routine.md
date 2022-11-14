@@ -304,7 +304,7 @@
 - Mountain Climbing 60 in 3x reps : 180
 <hr>
 
-## Date: 13/11/2022
+## Date: 14/11/2022
  - [x] Check if satisfied
  - [ ] Check if unsatisfied
  #### Upper body day
