@@ -315,3 +315,13 @@
 - Neck exercise 12 in 3x reps : 36      
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
+
+## Date: 15/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### ABS day
+
+- Crunches 50 in 3x reps : 150 
+- Sit-up 20 in 3x reps : 60
+- Mountain Climbing 100 in 3x reps : 300
+<hr>
