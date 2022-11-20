@@ -315,3 +315,57 @@
 - Neck exercise 12 in 3x reps : 36      
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
+
+## Date: 15/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### ABS day
+
+- Crunches 50 in 3x reps : 150 
+- Sit-up 20 in 3x reps : 60
+- Mountain Climbing 100 in 3x reps : 300
+<hr>
+
+## Date: 16/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### Upper body day
+
+- Push-Ups 30 in 3x reps : 90 
+- Dumbell ***Right Hand*** 20 in 4x reps : 80 
+- Dumbell ***Left Hand*** 20 in 4x reps : 80
+- Neck exercise 12 in 4x reps : 48      
+- Tricep exercise 20 in 5x reps : 100 
+<hr>
+
+## Date: 17/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### ABS day
+
+- Crunches 50 in 3x reps : 150 
+- Squats 10 in 3x reps : 30
+- Mountain Climbing 100 in 3x reps : 300
+<hr>
+
+## Date: 18/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### Upper body day
+
+- Push-Ups 30 in 3x reps : 90 
+- Dumbell ***Right Hand*** 20 in 4x reps : 80 
+- Dumbell ***Left Hand*** 20 in 4x reps : 80
+- Neck exercise 12 in 4x reps : 48      
+- Tricep exercise 20 in 5x reps : 100 
+<hr>
+
+## Date: 19/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### ABS day
+
+- Crunches 50 in 3x reps : 150 
+- Squats 10 in 3x reps : 30
+- Mountain Climbing 100 in 3x reps : 300
+<hr>

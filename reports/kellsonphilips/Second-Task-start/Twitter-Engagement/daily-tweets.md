@@ -233,3 +233,48 @@ Check daily tweet here: [Tweet](def)
 
 [def]: https://twitter.com/kellsonphilips/status/1592032703444307968?s=20&t=KD8-J68IAZsxLkXkXuc48g
 <hr>
+
+## Date: 15/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1592371944682577921?s=20&t=sl2XgLgdibcSIAbm_idIaA
+<hr>
+
+## Date: 16/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1592712812144517122?s=20&t=zBUPmVw-YCsF2zhGr34Q6A
+<hr>
+
+## Date: 17/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1593082203160051713?s=20&t=w2CdFfy77OGmP4F6Fhl70A
+<hr>
+
+## Date: 18/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1593445502049464320?s=20&t=S4db5wL6pjlIH4-BaCQu2w
+<hr>
+
+## Date: 19/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1593795122021666816?s=20&t=pz33fatX0eNBrY_Bu7Bslg
+<hr>
