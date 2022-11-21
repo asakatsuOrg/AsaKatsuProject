@@ -3,9 +3,10 @@
 Elucian is working as Sage-Code Tech Instructor.
 
 **Challanges**
-* 1'st Challange: [Learn Bash](bash) unilt 1 Oct 2022
-* 2'nd Challange: [Learn Maj](maj)   until 30 Dec 2022
-* 3'rd Challange: [Learn Fortran](fortran) until 1 Feb 2023
+* 1'st Challange: [Learn Bash](bash) Sept 2022
+* 2'nd Challange: [Learn Maj](maj)   Oct 2022
+* 3'rd Challange: [Learn Fortran](fortran) Nov 2022
+* 4'th Challange: [Advanced Java](java) until Dec 2022
 
 # Expertise
 
