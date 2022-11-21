@@ -8,7 +8,7 @@ from pathlib import Path
 # from tkinter import *
 # Explicit imports to satisfy Flake8
 from tkinter import *
-import os
+import ext
 
 OUTPUT_PATH = Path(__file__).parent
 ASSETS_PATH = OUTPUT_PATH / Path("./frame0")
@@ -32,9 +32,7 @@ def record_window():
 
     def submit():
         pass
-
-
-
+    
     leaf = Toplevel()
     leaf.title("record")
     leaf_canvas = Canvas(leaf, width=800,height=600, background="Black")
@@ -138,9 +136,13 @@ def record_window():
         font=("Inter", 24 * -1)
     )
 
+    #validate the entry
+    reg = leaf.register(ext.validate)
 
     phone_txbox = Entry(
         leaf_canvas,
+        validate='key',
+        validatecommand=(reg, '%P'),
         bd=0,
         bg="#FFF3FB",
         fg="#000716",
@@ -300,195 +302,198 @@ def record_window():
         width=125,
         height=34
     )
-
-
+    
     leaf.resizable(False,False)
-    leaf.mainloop()
+    mainloop()
 
 
 
-window = Tk()
+def main():
+    window = Tk()
 
-window.geometry("1440x1024")
-window.configure(bg = "#FFFFFF")
-
-
-canvas = Canvas(
-    window,
-    bg = "#FFFFFF",
-    height = 1024,
-    width = 1440,
-    bd = 0,
-    highlightthickness = 0,
-    relief = "ridge"
-)
-
-canvas.place(x = 0, y = 0)
-image_image_1 = PhotoImage(
-    file=relative_to_assets("image_1.png"))
-image_1 = canvas.create_image(
-    720.0,
-    512.0,
-    image=image_image_1
-)
-canvas.create_text(
-    178.0,
-    68.0,
-    anchor="nw",
-    text="楽商 JVer",
-    fill="#FFFFFF",
-    font=("Inter SemiBold", 96 * -1)
-)
-
-canvas.create_rectangle(
-    100.0,
-    203.0,
-    1338.0,
-    205.0,
-    fill="#FFFFFF",
-    outline="")
-
-#107 Torikeshi
-button_image_1 = PhotoImage(
-    file=relative_to_assets("button_1.png"))
-button_1 = Button(
-    image=button_image_1,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: window.destroy(),
-    relief="flat"
-)
-button_1.place(
-    x=728.0,
-    y=608.0,
-    width=618.0,
-    height=78.0
-)
+    window.geometry("1440x1024")
+    window.configure(bg = "#FFFFFF")
 
 
-#106 Nyuushukko
-button_image_2 = PhotoImage(
-    file=relative_to_assets("button_2.png"))
-button_2 = Button(
-    image=button_image_2,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: print("button_2 clicked"),
-    relief="flat"
-)
-button_2.place(
-    x=728.0,
-    y=487.0,
-    width=618.0,
-    height=78.0
-)
+    canvas = Canvas(
+        window,
+        bg = "#FFFFFF",
+        height = 1024,
+        width = 1440,
+        bd = 0,
+        highlightthickness = 0,
+        relief = "ridge"
+    )
 
-#105 Tanaoroshi
-button_image_3 = PhotoImage(
-    file=relative_to_assets("button_3.png"))
-button_3 = Button(
-    image=button_image_3,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: print("button_3 clicked"),
-    relief="flat"
-)
-button_3.place(
-    x=728.0,
-    y=367.0,
-    width=618.0,
-    height=78.0
-)
+    canvas.place(x = 0, y = 0)
+    image_image_1 = PhotoImage(
+        file=relative_to_assets("image_1.png"))
+    image_1 = canvas.create_image(
+        720.0,
+        512.0,
+        image=image_image_1
+    )
+    canvas.create_text(
+        178.0,
+        68.0,
+        anchor="nw",
+        text="楽商 JVer",
+        fill="#FFFFFF",
+        font=("Inter SemiBold", 96 * -1)
+    )
 
-#104 Chuumon Rireki
-button_image_4 = PhotoImage(
-    file=relative_to_assets("button_4.png"))
-button_4 = Button(
-    image=button_image_4,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: print("button_4 clicked"),
-    relief="flat"
-)
-button_4.place(
-    x=728.0,
-    y=247.0,
-    width=618.0,
-    height=78.0
-)
+    canvas.create_rectangle(
+        100.0,
+        203.0,
+        1338.0,
+        205.0,
+        fill="#FFFFFF",
+        outline="")
 
-
-#103 Uriage Shoukai
-button_image_5 = PhotoImage(
-    file=relative_to_assets("button_5.png"))
-button_5 = Button(
-    image=button_image_5,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: print("button_5 clicked"),
-    relief="flat"
-)
-button_5.place(
-    x=102.0,
-    y=607.0,
-    width=618.0,
-    height=78.0
-)
+    #107 Torikeshi
+    button_image_1 = PhotoImage(
+        file=relative_to_assets("button_1.png"))
+    button_1 = Button(
+        image=button_image_1,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: window.destroy(),
+        relief="flat"
+    )
+    button_1.place(
+        x=728.0,
+        y=608.0,
+        width=618.0,
+        height=78.0
+    )
 
 
-#102 Chuumon
-button_image_6 = PhotoImage(
-    file=relative_to_assets("button_6.png"))
-button_6 = Button(
-    image=button_image_6,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: print("button_6 clicked"),
-    relief="flat"
-)
-button_6.place(
-    x=102.0,
-    y=487.0,
-    width=618.0,
-    height=78.0
-)
+    #106 Nyuushukko
+    button_image_2 = PhotoImage(
+        file=relative_to_assets("button_2.png"))
+    button_2 = Button(
+        image=button_image_2,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: print("button_2 clicked"),
+        relief="flat"
+    )
+    button_2.place(
+        x=728.0,
+        y=487.0,
+        width=618.0,
+        height=78.0
+    )
+
+    #105 Tanaoroshi
+    button_image_3 = PhotoImage(
+        file=relative_to_assets("button_3.png"))
+    button_3 = Button(
+        image=button_image_3,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: print("button_3 clicked"),
+        relief="flat"
+    )
+    button_3.place(
+        x=728.0,
+        y=367.0,
+        width=618.0,
+        height=78.0
+    )
+
+    #104 Chuumon Rireki
+    button_image_4 = PhotoImage(
+        file=relative_to_assets("button_4.png"))
+    button_4 = Button(
+        image=button_image_4,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: print("button_4 clicked"),
+        relief="flat"
+    )
+    button_4.place(
+        x=728.0,
+        y=247.0,
+        width=618.0,
+        height=78.0
+    )
 
 
-#101 Shouhin Touroku
-button_image_7 = PhotoImage(
-    file=relative_to_assets("button_7.png"))
-button_7 = Button(
-    image=button_image_7,
-    borderwidth=0,
-    highlightthickness=0,
-    command=lambda: print("button_7"),
-    relief="flat"
-)
-button_7.place(
-    x=102.0,
-    y=367.0,
-    width=618.0,
-    height=78.0
-)
+    #103 Uriage Shoukai
+    button_image_5 = PhotoImage(
+        file=relative_to_assets("button_5.png"))
+    button_5 = Button(
+        image=button_image_5,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: print("button_5 clicked"),
+        relief="flat"
+    )
+    button_5.place(
+        x=102.0,
+        y=607.0,
+        width=618.0,
+        height=78.0
+    )
 
 
-#100 Jusho Touroku
-button_image_8 = PhotoImage(
-    file=relative_to_assets("button_8.png"))
-button_8 = Button(
-    image=button_image_8,
-    borderwidth=0,
-    highlightthickness=0,
-    command=record_window,
-    relief="flat"
-)
-button_8.place(
-    x=102.0,
-    y=247.0,
-    width=618.0,
-    height=78.0
-)
+    #102 Chuumon
+    button_image_6 = PhotoImage(
+        file=relative_to_assets("button_6.png"))
+    button_6 = Button(
+        image=button_image_6,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: print("button_6 clicked"),
+        relief="flat"
+    )
+    button_6.place(
+        x=102.0,
+        y=487.0,
+        width=618.0,
+        height=78.0
+    )
 
 
-window.resizable(False, False)
-window.mainloop()
+    #101 Shouhin Touroku
+    button_image_7 = PhotoImage(
+        file=relative_to_assets("button_7.png"))
+    button_7 = Button(
+        image=button_image_7,
+        borderwidth=0,
+        highlightthickness=0,
+        command=lambda: print("button_7"),
+        relief="flat"
+    )
+    button_7.place(
+        x=102.0,
+        y=367.0,
+        width=618.0,
+        height=78.0
+    )
+
+
+    #100 Jusho Touroku
+    button_image_8 = PhotoImage(
+        file=relative_to_assets("button_8.png"))
+    button_8 = Button(
+        image=button_image_8,
+        borderwidth=0,
+        highlightthickness=0,
+        command=record_window,
+        relief="flat"
+    )
+    button_8.place(
+        x=102.0,
+        y=247.0,
+        width=618.0,
+        height=78.0
+    )
+
+
+    window.resizable(False, False)
+    window.mainloop()
+
+if __name__ == "__main__":
+    main()
