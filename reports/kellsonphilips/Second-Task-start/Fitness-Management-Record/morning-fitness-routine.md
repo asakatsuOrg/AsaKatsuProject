@@ -391,3 +391,14 @@
 - Squats 15 in 3x reps : 45
 - Mountain Climbing 100 in 3x reps : 300
 <hr>
+
+## Date: 22/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### Upper body day
+
+- Push-Ups 40 in 4x reps : 120 
+- Dumbell ***Right Hand*** 20 in 3x reps : 80 
+- Dumbell ***Left Hand*** 20 in 3x reps : 80    
+- Tricep exercise 20 in 4x reps : 80 
+<hr>
