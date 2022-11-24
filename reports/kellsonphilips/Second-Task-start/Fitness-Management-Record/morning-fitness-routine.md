@@ -402,3 +402,13 @@
 - Dumbell ***Left Hand*** 20 in 3x reps : 80    
 - Tricep exercise 20 in 4x reps : 80 
 <hr>
+
+## Date: 23/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ #### ABS day
+
+- Crunches 50 in 3x reps : 150 
+- Squats 15 in 3x reps : 45
+- Mountain Climbing 100 in 3x reps : 300
+<hr>
