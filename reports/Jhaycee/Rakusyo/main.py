@@ -1,4 +1,5 @@
 from tkinter import *
+from tkinter import ttk, messagebox
 from ext import *
 import csv
 import textwrap
@@ -279,7 +280,46 @@ class AnnaishoWindow:
 
 
 class ChuumonWindow:
-    ...
+    def __init__(self):
+        window = Toplevel()
+        window.title("Orders")
+        window.geometry("1080x800")
+        canvas = Canvas(window,height = 800,width = 1080,relief = "ridge")
+        canvas.place(x = 0, y = 0)
+
+        def check(event):
+            entry = phone_num_txt.get()
+            res = find_num(entry)
+            if not res == None:
+                name, postal, address = res
+                cust_name_show.config(text=name.upper())
+                cust_add_show.config(text=f"{postal} {address}".upper())
+            else:
+                messagebox.showerror("Error!", "No Record!", parent=window)
+            
+
+        #Entry
+        phone_num_txt = Entry(window, width=15, font=("Arial", 10))
+        phone_num_txt.place(x=130, y=23)
+        phone_num_txt.bind("<Return>", check)
+
+        #Label
+        phone_num = Label(window, text="Phone Number: ")
+        phone_num.place(x=20, y=20)
+        cust_name = Label(window, text="Customer Name: ")
+        cust_name.place(x=20, y=50)
+        cust_add = Label(window, text="Address: ")
+        cust_add.place(x=20, y=70)
+        cust_name_show = Label(window, text="")
+        cust_name_show.place(x=130, y=50)
+        cust_add_show = Label(window,text="")
+        cust_add_show.place(x=130, y=70)
+        canvas.create_line(20, 120, 1060, 120)
+    
+        
+
+        window.resizable(False,False)
+        window.mainloop()
 
 class UriageshokaiWindow:
     ...
