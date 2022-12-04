@@ -317,3 +317,12 @@ Time of Wake-Up: 7:30AM
  
 Time of Wake-Up: 9:30AM 
 <hr>
+
+## Date: 3/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ 
+Time of Wake-Up: 9:30AM 
+<hr>
