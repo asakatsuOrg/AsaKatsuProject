@@ -40,3 +40,4 @@ GOAL: Do morning exercises every day for the next 150 days, except on Sundays.
 BREAK
 
 - [x] December 5 - 11 minutes (10:30am)
+- [x] December 6 - 10 minutes (10:30am)
