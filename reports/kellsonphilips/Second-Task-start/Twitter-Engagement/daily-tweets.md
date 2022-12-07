@@ -433,3 +433,12 @@ Check daily tweet here: [Tweet](def)
 
 [def]: https://twitter.com/kellsonphilips/status/1599982225445228544?s=20&t=_6d0SOjuMrvFHGh7ImuIFQ
 <hr>
+
+## Date: 7/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1600353224803786752?s=20&t=CwYjd-O93IsR0FOw5Ho1Eg
+<hr>
