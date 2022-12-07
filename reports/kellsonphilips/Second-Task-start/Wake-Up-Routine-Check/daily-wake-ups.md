@@ -355,3 +355,13 @@ Time of Wake-Up: 9:46AM
  
 Time of Wake-Up: 9:20AM 
 <hr>
+
+## Date: 7/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ **Seems like a routine till world cup ends**
+ 
+Time of Wake-Up: 9:34AM 
+<hr>
