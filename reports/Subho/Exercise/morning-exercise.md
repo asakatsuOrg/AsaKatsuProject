@@ -43,3 +43,4 @@ BREAK
 - [x] December 6 - 10 minutes (10:30am)
 - [x] December 7 - 12 minutes (10:30am)
 - [x] December 8 - 10 minutes (10:30am)
+- [x] December 9 - 12 minutes (10:30am)
