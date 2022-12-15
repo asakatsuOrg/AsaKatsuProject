@@ -7,3 +7,4 @@
 - [ ] December 9 - break
 - [x] December 12 - 8 minutes
 - [x] December 13 - 7 minutes
+- [x] December 14 - break
