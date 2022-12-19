@@ -532,3 +532,12 @@ Check daily tweet here: [Tweet](def)
 
 [def]: https://twitter.com/kellsonphilips/status/1603958412194107392?s=20&t=oaHZ0rmbF5xqjVCr_rpx0A
 <hr>
+
+## Date: 18/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Check daily tweet here: [Tweet](def)
+
+[def]: https://twitter.com/kellsonphilips/status/1604349260299833344?s=20&t=dAmsmoJk3cZ-qnof3T6xEA
+<hr>
