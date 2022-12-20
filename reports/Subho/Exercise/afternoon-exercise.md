@@ -11,3 +11,4 @@
 - [x] December 15 - 8 minutes
 - [x] December 16 - 10 minutes
 - [x] December 19 - 10 minutes
+- [x] December 20 - 9 minutes
