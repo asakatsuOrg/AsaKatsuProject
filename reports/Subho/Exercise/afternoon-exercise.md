@@ -14,3 +14,4 @@
 - [x] December 20 - 9 minutes
 - [x] December 21 - break
 - [x] December 22 - 8 minutes
+- [x] December 23 - 11 minutes
