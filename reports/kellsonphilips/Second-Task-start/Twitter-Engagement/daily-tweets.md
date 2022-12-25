@@ -596,7 +596,7 @@ Check daily tweet here: [Tweet](def)
 [def]: https://twitter.com/kellsonphilips/status/1606497643861053445?s=20&t=spVm6I4O40NTCFGSI1uC9Q
 <hr>
 
-## Date: 24/12/2022
+## Date: 25/12/2022
  - [x] Check if satisfied
  - [ ] Check if unsatisfied
  
