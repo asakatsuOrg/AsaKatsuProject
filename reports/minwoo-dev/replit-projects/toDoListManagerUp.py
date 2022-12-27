@@ -6,9 +6,16 @@ myToDoList = []
 # Must comment out if file does not exist yet
 # Remove comments once file exists
 # Day 52 tomorrow for FILE DOES NOT EXIST error resolution
-f = open("todolist.txt", "r")
-myToDoList = eval(f.read())
-f.close()
+# UPDATE: appended code from Day 52: the try and except code block to catch error
+
+try:
+  f = open("todolist.txt", "r")
+  myToDoList = eval(f.read())
+  f.close()
+except:
+  print("ERROR: No existing to do list, using a blank list.")
+  time.sleep(2)
+  os.system("clear")
 
 
 def changeColor(color):
