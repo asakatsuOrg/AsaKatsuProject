@@ -424,3 +424,80 @@ Time of Wake-Up: 6:20AM
  
 Time of Wake-Up: 6:57AM 
 <hr>
+
+## Date: 16/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:38AM 
+<hr>
+
+## Date: 17/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 5:46AM 
+<hr>
+
+## Date: 18/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:23AM 
+<hr>
+
+## Date: 19/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:58AM 
+<hr>
+
+## Date: 20/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:02AM 
+<hr>
+
+## Date: 21/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:21AM 
+<hr>
+
+## Date: 22/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:00AM 
+<hr>
+
+## Date: 23/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:19AM 
+<hr>
+
+## Date: 24/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:10AM 
+<hr>
+
+## Date: 25/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 5:23AM 
+<hr>
+
+## Date: 26/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:41AM 
+<hr>
