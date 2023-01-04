@@ -1,4 +1,4 @@
-# About AsaKatsu Project
+# 💻 About AsaKatsu Project
 A project where you can keep track of your goal's progress, and contribute to open source in the same time.
 
 *AsaKatsu* is a Japanese term for waking up a little early to do something productive, in line with a goal.
@@ -6,31 +6,21 @@ For example; read 4 books per month, do 100 days challenge, etc.
 
 In this project, everyone who will commit will have to do a thing or two every morning and log the progress here.
 
-# How to Contribute
-0. Set your goal and break it into smaller chunks.
+#  📜 Rules
 
-For example you want to read 4 books in one month. Break it down to “Read one book per week”, or smaller, “Read xy chapter per day”.
+* Be concise and specific with your goals. Eg: Set Goal (Avie):[100 spaces in 100 days]
+* Make sure to create a PR for the issue you created.
+* Read the [Code Of Conduct](https://github.com/asakatsuOrg/AsaKatsuProject/blob/develop/CODE_OF_CONDUCT.md) to ensure a smoother experience for everyone contributing
 
-Be sure that your goal is **SMART**.
-- **S**pecific (simple, sensible, significant).
-- **M**easurable (meaningful, motivating).
-- **A**chievable (agreed, attainable).
-- **R**elevant (reasonable, realistic and resourced, results-based).
-- **T**ime bound (time-based, time limited, time/cost limited, timely, time-sensitive).
+#  👨‍💻 Contribution
+Any contributions you make are truly appreciated.
+Check out our [contribution guidelines](https://github.com/asakatsuOrg/AsaKatsuProject/blob/develop/CONTRIBUTING.md) for more information.
 
-1. [Fork](https://github.com/avie-dev/AsaKatsuProject/fork) this repository.
-2. Create an issue stating your goal. You can use the set goal template or create your own format. Feel free.
-3. Create a new branch with this format: asakatsu/<github_handle>
-   - It is advisable to have only one branch. Work one thing at a time.
-   - If you need another branch, aside from goal setting, you can create one
-      - feature/your_proposal
-      - bugfix/your_proposal
+<a href = "https://github.com/asakatsuOrg/AsaKatsuProject/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=asakatsuOrg/AsaKatsuProject"/>
+</a>
 
-4. Create your folder inside **reports**. And then create a subfolder like the one in the image below.
-![](images/dir_img.png?raw=true)
 
-5. Create a PR everytime you update the log (the txt file). 
-   - **If you are ready to merge the PR, put a tag [Ready to Merge]**    
-6. You can also post the what is inside the txt file in Twitter with the tag #AsaKatsu if you want. This is optional.
-7. Close the issue when you're done with the goal.
+# 🙏 Support
 
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
