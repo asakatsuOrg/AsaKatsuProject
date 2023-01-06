@@ -54,3 +54,9 @@ BREAK
 - [x] December 21 - 15 minutes (10:00am)
 - [x] December 22 - 13 minutes (10:00am)
 - [x] December 23 - 15 minutes (10:00am)
+
+BREAK
+
+- [x] January 2 - 11 minutes (10:00am)
+- [x] January 3 - 10 minutes (11:00am)
+- [x] January 4 - 12 minutes (08:00pm)
