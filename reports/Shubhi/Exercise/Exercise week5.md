@@ -1,10 +1,10 @@
 # Exercise
 
 **These are the days that I do Exercise**
-- [ ] Monday-->
-- [ ] Tuesday-->
-- [ ] Wednesday-->
-- [ ] Thursday-->  
+- [x] Monday-->Done
+- [x] Tuesday-->Done
+- [x] Wednesday-->Done 
+- [x] Thursday-->  Done
 - [ ] Friday--> 
 - [ ] Saturday--> 
 - [ ] Sunday--> 
