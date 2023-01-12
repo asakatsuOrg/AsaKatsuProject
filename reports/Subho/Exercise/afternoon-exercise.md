@@ -22,3 +22,4 @@ BREAK
 - [x] January 3 - 14 minutes
 - [x] January 4 - 13 minutes
 - [x] January 6 - 9 minutes
+- [x] January 10 - 9 minutes
