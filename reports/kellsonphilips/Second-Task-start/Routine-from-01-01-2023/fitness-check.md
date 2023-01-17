@@ -1,8 +1,8 @@
 # Morning Fitness Routine Check Time Log **|** Daily Log expected **|** ***Very important***
 
 ## Date: 01/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -13,8 +13,8 @@
 <hr>
 
 ## Date: 02/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -24,8 +24,8 @@
 <hr>
 
 ## Date: 03/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -36,8 +36,8 @@
 <hr>
 
 ## Date: 04/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -47,8 +47,8 @@
 <hr>
 
 ## Date: 05/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -59,8 +59,8 @@
 <hr>
 
 ## Date: 06/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -70,8 +70,8 @@
 <hr>
 
 ## Date: 07/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -82,8 +82,8 @@
 <hr>
 
 ## Date: 08/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -93,8 +93,8 @@
 <hr>
 
 ## Date: 09/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -105,8 +105,8 @@
 <hr>
 
 ## Date: 10/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -116,8 +116,8 @@
 <hr>
 
 ## Date: 11/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -128,8 +128,8 @@
 <hr>
 
 ## Date: 12/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -139,8 +139,8 @@
 <hr>
 
 ## Date: 13/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -151,8 +151,8 @@
 <hr>
 
 ## Date: 14/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
  
  #### ABS day
 
@@ -162,8 +162,8 @@
 <hr>
 
 ## Date: 15/01/2023
- - [x] Check if satisfied
- - [ ] Check if unsatisfied
+ - [x] Satisfied
+ - [ ] Unsatisfied
 
  #### Upper body day
 
@@ -171,4 +171,16 @@
 - Dumbell ***Right Hand*** 20 in 3x reps : 60 
 - Dumbell ***Left Hand*** 20 in 3x reps : 60    
 - Tricep exercise 20 in 3x reps : 60 
+<hr>
+
+## Date: 16/01/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+ #### ABS day
+
+- Crunches 50 in 2x reps : 100 
+- Squats 15 in 2x reps : 30
+- Mountain Climbing 100 in 2x reps : 200
+- Plank starter 1 minus in 3 reps : 3 minutes 
 <hr>

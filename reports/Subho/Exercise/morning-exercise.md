@@ -63,3 +63,6 @@ BREAK
 - [x] January 6 - 10 minutes (11:00am)
 - [x] January 9 - 12 minutes (09:30pm)
 - [x] January 10 - 12 minutes (10:00pm)
+- [x] January 12 - 13 minutes (11:00am)
+- [x] January 13 - 13 minutes (10:00pm)
+- [x] January 16 - 12 minutes (10:30am)
