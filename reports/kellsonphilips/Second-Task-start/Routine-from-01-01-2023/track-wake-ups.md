@@ -62,3 +62,45 @@ Time of Wake-Up: 7:26AM
  
 Time of Wake-Up: 8:37AM 
 <hr>
+
+## Date: 10/01/2023
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:40AM 
+<hr>
+
+## Date: 11/01/2023
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:30AM 
+<hr>
+
+## Date: 12/01/2023
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:56AM 
+<hr>
+
+## Date: 13/01/2023
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:21AM 
+<hr>
+
+## Date: 14/01/2023
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:07AM 
+<hr>
+
+## Date: 15/01/2023
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:28AM 
+<hr>
