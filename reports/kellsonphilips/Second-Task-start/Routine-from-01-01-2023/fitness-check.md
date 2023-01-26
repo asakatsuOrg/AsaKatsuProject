@@ -280,3 +280,15 @@
 - Mountain Climbing 100 in 2x reps : 200
 - Plank starter 1 minus in 3 reps : 3 minutes 
 <hr>
+
+## Date: 25/01/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+
+ #### Upper body day
+
+- Push-Ups 30 in 2x reps : 60 
+- Dumbell ***Right Hand*** 20 in 3x reps : 60 
+- Dumbell ***Left Hand*** 20 in 3x reps : 60    
+- Tricep exercise 20 in 3x reps : 60 
+<hr>
