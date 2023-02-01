@@ -239,3 +239,11 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/161954
 Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1619922981643341824?s=20&t=mxGcNb2DgqLgWcdri-HKfg)
 
 <hr>
+
+## Date: 31/01/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1620265991883063297?s=20&t=y4fx3WHtflzt5jHvhtUlpw)
+
+<hr>
