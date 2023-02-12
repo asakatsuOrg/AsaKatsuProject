@@ -32,3 +32,5 @@ BREAK
 - [x] February 3 - 10 minutes
 - [x] February 6 - 16 minutes
 - [x] February 7 - 16 minutes
+- [x] February 8 - 14 minutes
+- [x] February 9 - 15 minutes
