@@ -231,3 +231,308 @@ Time of Wake-Up: 7:00AM
  
 Time of Wake-Up: 7:58AM 
 <hr>
+
+## Date: 22/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+ 
+Time of Wake-Up: 8:21AM 
+<hr>
+
+## Date: 23/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied 
+ 
+Time of Wake-Up: 7:09AM 
+<hr>
+
+## Date: 24/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+ 
+Time of Wake-Up: 8:13AM 
+<hr>
+
+## Date: 25/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+ 
+Time of Wake-Up: 8:01AM 
+<hr>
+
+## Date: 26/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+
+***Terrible🫣***
+ 
+Time of Wake-Up: 8:56AM 
+<hr>
+
+## Date: 27/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+ 
+Time of Wake-Up: 8:27AM 
+<hr>
+
+## Date: 28/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+
+ ***Watched football till 3am🫣***
+ 
+Time of Wake-Up: 9:30AM 
+<hr>
+
+## Date: 29/11/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied 
+
+ ***Watched football till 3am🫣***
+ **Repeated because of WC**
+ 
+Time of Wake-Up: 9:30AM 
+<hr>
+
+## Date: 30/11/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 6:44AM 
+<hr>
+
+## Date: 1/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:30AM 
+<hr>
+
+## Date: 2/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ 
+Time of Wake-Up: 9:30AM 
+<hr>
+
+## Date: 3/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ 
+Time of Wake-Up: 9:30AM 
+<hr>
+
+## Date: 4/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ 
+Time of Wake-Up: 9:30AM 
+<hr>
+
+## Date: 5/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ **Seems like a routine till world cup ends**
+ 
+Time of Wake-Up: 9:46AM 
+<hr>
+
+## Date: 6/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ **Seems like a routine till world cup ends**
+ 
+Time of Wake-Up: 9:20AM 
+<hr>
+
+## Date: 7/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ **Seems like a routine till world cup ends**
+ 
+Time of Wake-Up: 9:34AM 
+<hr>
+
+## Date: 8/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+
+ ***Watched football till 3am🫣***
+ **Seems like a routine till world cup ends**
+ 
+Time of Wake-Up: 8:40AM 
+<hr>
+
+## Date: 9/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 9:28AM 
+<hr>
+
+## Date: 10/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:30AM 
+<hr>
+
+## Date: 11/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:14AM 
+<hr>
+
+## Date: 12/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:37AM 
+<hr>
+
+## Date: 13/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:50AM 
+<hr>
+
+## Date: 14/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 6:20AM 
+<hr>
+
+## Date: 15/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 6:57AM 
+<hr>
+
+## Date: 16/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:38AM 
+<hr>
+
+## Date: 17/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 5:46AM 
+<hr>
+
+## Date: 18/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:23AM 
+<hr>
+
+## Date: 19/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:58AM 
+<hr>
+
+## Date: 20/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:02AM 
+<hr>
+
+## Date: 21/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:21AM 
+<hr>
+
+## Date: 22/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:00AM 
+<hr>
+
+## Date: 23/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:19AM 
+<hr>
+
+## Date: 24/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:10AM 
+<hr>
+
+## Date: 25/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 5:23AM 
+<hr>
+
+## Date: 26/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 7:41AM 
+<hr>
+
+## Date: 27/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:20AM 
+<hr>
+
+## Date: 28/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:03AM 
+<hr>
+
+## Date: 29/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:27AM 
+<hr>
+
+## Date: 30/12/2022
+ - [ ] Check if satisfied
+ - [x] Check if unsatisfied
+ 
+Time of Wake-Up: 8:41AM 
+<hr>
+
+## Date: 31/12/2022
+ - [x] Check if satisfied
+ - [ ] Check if unsatisfied
+ 
+Time of Wake-Up: 9:10AM 
+<hr>

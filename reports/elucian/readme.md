@@ -7,6 +7,7 @@ Elucian is working as Sage-Code Tech Instructor.
 * 2'nd Challange: [Learn Maj](maj)   Oct 2022
 * 3'rd Challange: [Learn Fortran](fortran) Nov 2022
 * 4'th Challange: [Advanced Java](java) until Dec 2022
+* 5'th Challange: [Nim Tutorial](nim) until Feb 2023
 
 # Expertise
 
