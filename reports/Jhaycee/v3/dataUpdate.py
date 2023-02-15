@@ -30,7 +30,7 @@ def make_db():
 def update_db():
     conn = sqlite3.connect("personal_info")
     cur = conn.cursor()
-
+    
     with open(import_csv, encoding="CP932") as file:
         reader = csv.reader(file)
         for i in reader:
