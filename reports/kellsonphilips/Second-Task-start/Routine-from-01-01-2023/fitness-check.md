@@ -532,3 +532,6 @@
 - Dumbell ***Left Hand*** 20 in 3x reps : 60    
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
+
+> Travelling international these few days 
+
