@@ -359,3 +359,5 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/162497
 Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1625378604363448320?s=20&t=2xpAb-oh97VowTYnG5op-g)
 
 <hr>
+
+> Travelling international these few days 
