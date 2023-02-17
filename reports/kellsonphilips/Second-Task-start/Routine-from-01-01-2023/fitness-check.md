@@ -472,3 +472,51 @@
 - Mountain Climbing 100 in 2x reps : 200
 - Plank starter 1 minus in 3 reps : 3 minutes 
 <hr>
+
+## Date: 10/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+
+ #### Upper body day
+
+- Push-Ups 30 in 2x reps : 60 
+- Dumbell ***Right Hand*** 20 in 3x reps : 60 
+- Dumbell ***Left Hand*** 20 in 3x reps : 60    
+- Tricep exercise 20 in 3x reps : 60 
+<hr>
+
+## Date: 11/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+ #### ABS day
+
+- Crunches 50 in 2x reps : 100 
+- Squats 15 in 2x reps : 30
+- Mountain Climbing 100 in 2x reps : 200
+- Plank starter 1 minus in 3 reps : 3 minutes 
+<hr>
+
+## Date: 12/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+
+ #### Upper body day
+
+- Push-Ups 30 in 2x reps : 60 
+- Dumbell ***Right Hand*** 20 in 3x reps : 60 
+- Dumbell ***Left Hand*** 20 in 3x reps : 60    
+- Tricep exercise 20 in 3x reps : 60 
+<hr>
+
+## Date: 13/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+ #### ABS day
+
+- Crunches 50 in 2x reps : 100 
+- Squats 15 in 2x reps : 30
+- Mountain Climbing 100 in 2x reps : 200
+- Plank starter 1 minus in 3 reps : 3 minutes 
+<hr>
