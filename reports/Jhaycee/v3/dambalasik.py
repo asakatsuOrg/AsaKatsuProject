@@ -72,10 +72,14 @@
 
 
 import tkinter as tk
-from tkinter import ttk, END, messagebox
+from tkinter import ttk, END, messagebox, filedialog
 from external_function import *
 from external_function_jn import *
 from dataUpdate import *
+from japdlext import dl_link_jn
+from engdlext import dl_link_EN
+import kanri
+
 
 class main_window:
    def __init__(self):
@@ -118,9 +122,9 @@ class main_window:
                   Listbox.insert(END, order_no[x])
                   Listbox.itemconfig(x, bg="SeaGreen1")
                else:
-                  Listbox.insert(END, order_no[x])
+                  Listbox.insert(END, f'{x + 1}. {order_no[x]}')
             else:
-               Listbox.insert(END, f'{order_no[x]} {infos[2]} {infos[3]} {infos[4]} {infos[5]} {infos[6]}')
+               Listbox.insert(END, f'{x + 1}. {order_no[x]} {infos[2]} {infos[3]} {infos[4]} {infos[5]} {infos[6]}')
 
             if x % 2 == 0:
                Listbox.itemconfig(x, bg='lavender')
@@ -131,6 +135,7 @@ class main_window:
 
       def update_database():
          clear_db()
+         
          update_db()
          messagebox.showinfo("UPDATE STATUS", "Update Done!!")
                
@@ -163,6 +168,9 @@ class main_window:
          #Listbox.itemconfig(1, bg='red')
          Listbox.delete(0, END)
 
+      def kanri_gamen():
+         kanri.Login()
+
       def under_maintenance():
          messagebox.showwarning("HEY! ", "THIS FEATURE IS NOT YET AVAILABLE")
 
@@ -176,13 +184,16 @@ class main_window:
       btn_update = tk.Button(root, text="UPDATE DB",width=10,relief="ridge" ,command=update_database)
       btn_update.place(x=880, y=100)
 
-      btn_download = tk.Button(root, text="DOWNLOAD",width=10,relief="ridge", command=under_maintenance)
+      btn_kanri = tk.Button(root, text="管理者用設定",width=10,relief="ridge" ,command=kanri_gamen)
+      btn_kanri.place(x=880, y=70)
+
+      btn_download = tk.Button(root, text="DOWNLOAD",width=10,relief="ridge", command=dl_link_EN)
       btn_download.place(x=30, y=750)
 
       btn_english = tk.Button(root, text="ENGLISH",width=10,relief="ridge" ,command=click)
       btn_english.place(x=130, y=750)
 
-      btn_download_jn = tk.Button(root, text="DOWNLOAD",width=10,relief="ridge", command=under_maintenance)
+      btn_download_jn = tk.Button(root, text="DOWNLOAD",width=10,relief="ridge", command=dl_link_jn)
       btn_download_jn.place(x=780, y=750)
 
       btn_jap = tk.Button(root, text="JAPANESE",width=10,relief="ridge", command=jap)
