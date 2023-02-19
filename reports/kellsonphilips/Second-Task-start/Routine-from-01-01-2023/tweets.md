@@ -361,3 +361,5 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/162537
 <hr>
 
 > Travelling international these few days 
+> ||
+> Still on my way
