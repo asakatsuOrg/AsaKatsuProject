@@ -315,7 +315,13 @@ Time of Wake-Up: 7:31AM
 Time of Wake-Up: 10:31AM 
 <hr>
 
+- 15/02/2023 
 > Travelling international these few days 
-> ||
+> || 
+- 17/02/2023
 > Still on my way
-
+> ||
+- 19/02/2023
+> Got to my destination safely 
+> ||
+<hr>
