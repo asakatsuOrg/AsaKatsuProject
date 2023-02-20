@@ -533,7 +533,13 @@
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
 
+- 15/02/2023 
 > Travelling international these few days 
-|| 
+> || 
+- 17/02/2023
 > Still on my way
-
+> ||
+- 19/02/2023
+> Got to my destination safely 
+> ||
+<hr>
