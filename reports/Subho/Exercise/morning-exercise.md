@@ -80,3 +80,6 @@ BREAK
 - [x] February 11 - 17 minutes (10:30am)
 - [x] February 13 - 17 minutes (09:30am)
 - [x] February 14 - 16 minutes (10:00am)
+- [x] February 15 - 21 minutes (10:30am)
+- [x] February 16 - 23 minutes (10:00am)
+- [x] February 20 - 22 minutes (10:30am)
