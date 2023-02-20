@@ -360,6 +360,13 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/162537
 
 <hr>
 
+- 15/02/2023 
 > Travelling international these few days 
-> ||
+> || 
+- 17/02/2023
 > Still on my way
+> ||
+- 19/02/2023
+> Got to my destination safely 
+> ||
+<hr>
