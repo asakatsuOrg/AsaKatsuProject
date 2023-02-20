@@ -370,3 +370,10 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/162537
 > Got to my destination safely 
 > ||
 <hr>
+
+## Date: 20/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1627603213703602177?s=20)
+<hr>
