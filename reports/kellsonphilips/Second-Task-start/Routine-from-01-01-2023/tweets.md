@@ -351,3 +351,15 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/162466
 Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1624978417711206402?s=20&t=iFE8BddtNttVjpnKw9n_lQ)
 
 <hr>
+
+## Date: 14/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1625378604363448320?s=20&t=2xpAb-oh97VowTYnG5op-g)
+
+<hr>
+
+> Travelling international these few days 
+> ||
+> Still on my way
