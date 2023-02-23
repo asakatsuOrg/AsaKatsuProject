@@ -315,5 +315,27 @@ Time of Wake-Up: 7:31AM
 Time of Wake-Up: 10:31AM 
 <hr>
 
+- 15/02/2023 
 > Travelling international these few days 
+> || 
+- 17/02/2023
+> Still on my way
+> ||
+- 19/02/2023
+> Got to my destination safely 
+> ||
+<hr>
 
+## Date: 20/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Time of Wake-Up: 04:52AM 
+<hr>
+
+## Date: 21/02/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Time of Wake-Up: 06:31AM 
+<hr>
