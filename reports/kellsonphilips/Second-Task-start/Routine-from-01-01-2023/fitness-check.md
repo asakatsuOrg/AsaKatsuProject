@@ -833,7 +833,7 @@
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
 
-## Date: 14/03/2023
+## Date: 16/03/2023
  - [x] Satisfied
  - [ ] Unsatisfied
 
