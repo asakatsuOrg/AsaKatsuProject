@@ -507,3 +507,10 @@ Time of Wake-Up: 06:04AM
  
 Time of Wake-Up: 05:42AM 
 <hr>
+
+## Date: 18/03/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Time of Wake-Up: 06:02AM 
+<hr>
