@@ -658,3 +658,24 @@ Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/164168
  
 Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1642047893325647877?s=20)
 <hr>
+
+## Date: 02/04/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1642413301131878401?s=20)
+<hr>
+
+## Date: 03/04/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1642783742144966657?s=20)
+<hr>
+
+## Date: 04/04/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+ 
+Check daily tweet here: [Tweet](https://twitter.com/kellsonphilips/status/1643131533945888768?s=20)
+<hr>
