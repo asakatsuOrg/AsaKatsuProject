@@ -1097,3 +1097,14 @@
 - Dumbell ***Left Hand*** 20 in 3x reps : 60    
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
+
+## Date: 07/04/2023
+ - [x] Satisfied
+ - [ ] Unsatisfied
+
+ #### Upper body day
+
+- Push-Ups 30 in 2x reps : 60 
+- ***Travelled and there's no dumbells available in my current loaction.***
+- Tricep exercise 20 in 3x reps : 60 
+<hr>
