@@ -1108,3 +1108,6 @@
 - ***Travelled and there's no dumbells available in my current loaction.***
 - Tricep exercise 20 in 3x reps : 60 
 <hr>
+
+## Date: 08/04/2023
+***Today I lost my Aunt 😭😭😭 and that weighs be down that I couldn't do anything for myself***
