@@ -696,5 +696,5 @@ Time of Wake-Up: 06:30AM
  - [x] Satisfied
  - [ ] Unsatisfied
  
-Time of Wake-Up: 06:30AM 
+Time of Wake-Up: 06:00AM 
 <hr>
