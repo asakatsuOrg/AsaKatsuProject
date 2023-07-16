@@ -1110,4 +1110,6 @@
 <hr>
 
 ## Date: 08/04/2023
-***Today I lost my Aunt 😭😭😭 and that weighs be down that I couldn't do anything for myself***
+***Today I lost my Aunt 😭😭😭 and that weighs me down that I couldn't do anything for myself***
+
+Hope to be back soon
